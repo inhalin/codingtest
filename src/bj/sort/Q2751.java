@@ -1,4 +1,4 @@
-package bj.io;
+package bj.sort;
 
 import java.io.BufferedReader;
 import java.io.IOException;
